@@ -1,0 +1,17 @@
+---
+- name: 90:/5 June
+  year: 2022
+  start: Jun-04
+  end: Jul-07
+- name: Summer
+  year: 2022
+  start: Jul-23
+  end: Aug-25
+- name: Summer Down Under
+  year: 2022
+  start: Jan-08
+  end: Feb-10
+- name: Old stuff
+  year: 2021
+  start: Jan-08
+  end: Jan-30
